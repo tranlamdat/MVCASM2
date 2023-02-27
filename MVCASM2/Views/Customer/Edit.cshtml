@@ -1,0 +1,25 @@
+﻿@model Customer
+
+<form asp-controller="Customer" asp-action="Edit" method="post">
+	Name:
+	<input type="text" asp-for="Cus_Name" />
+	<span class="text-danger" asp-validation-for="Cus_Name"></span>
+	<br />
+	Birthday:
+	<input type="date" asp-for="Cus_Birthday" />
+	<span class="text-danger" asp-validation-for="Cus_Birthday"></span>
+	<br />
+	Gender:
+	<input type="radio" asp-for="Cus_Gender" value="male" />Male
+	<input type="radio" asp-for="Cus_Gender" value="female" />Female
+	<span class="text-danger" asp-validation-for="Cus_Gender"></span>
+	<br />
+	Address:
+	<textarea type="text" asp-for="Cus_Address"></textarea>
+	<span class="text-danger" asp-validation-for="Cus_Address"></span>
+	<br />
+	<input type="submit" value="Submit">
+</form>
+@section scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

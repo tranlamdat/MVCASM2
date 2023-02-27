@@ -1,0 +1,16 @@
+﻿@model Category
+
+<form asp-controller="Category" asp-action="Create" method="post">
+	Name:
+	<input type="text" asp-for="Cat_Name" />
+	<span class="text-danger" asp-validation-for="Cat_Name"></span>
+	<br />
+	Description:
+	<input type="text" asp-for="Cat_Des" />
+	<span class="text-danger" asp-validation-for="Cat_Des"></span>
+	<br />
+	<input type="submit" value="Submit">
+</form>
+@section scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

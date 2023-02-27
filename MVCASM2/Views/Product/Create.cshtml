@@ -1,0 +1,27 @@
+﻿@model Product
+
+<form asp-controller="Product" asp-action="Create" method="post" enctype="multipart/form-data">
+	Name:
+	<input type="text" asp-for="Name" />
+	<span class="text-danger" asp-validation-for="Name"></span>
+	<br />
+	Description:
+	<input type="text" asp-for="Description" />
+	<span class="text-danger" asp-validation-for="Description"></span>
+	<br />
+	Price:
+	<input type="text" asp-for="Price" />
+	<span class="text-danger" asp-validation-for="Price"></span>
+	<br />
+	CategoyID:
+	<input type="text" asp-for="Cat_Id" />
+	<span class="text-danger" asp-validation-for="Cat_Id"></span>
+	<br />
+	Image:
+	<input type="file" asp-for="FileImage"/>
+	<input type="submit" value="Submit">
+</form>
+@section scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
+
