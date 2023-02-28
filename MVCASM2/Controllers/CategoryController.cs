@@ -49,7 +49,6 @@ namespace MVCASM2.Controllers
 				return RedirectToAction("Index");
 			}
 			return View(obj);
-			//return Json(obj);
 		}
 
 		[HttpPost]
