@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TnPihG9O3b8N+bYQuEYNdM7p1Nw8HHUWMKXgkCmk3CE=",
+  "Hash": "lK6oCiAISdTrrHdhRM38XrzEdYUJeaeUxtlT74JTx/8=",
   "Source": "MVCASM2",
   "BasePath": "_content/MVCASM2",
   "Mode": "Default",
@@ -2650,6 +2650,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\a6a2ec91-b97e-45f4-aa8c-2fd22f4570be.jpg"
+    },
+    {
+      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg",
+      "SourceId": "MVCASM2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "BasePath": "_content/MVCASM2",
+      "RelativePath": "Uploads/ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg"
     },
     {
       "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\b8eec38e-ff15-4e9d-8f68-39c8eb0cb821.png",
