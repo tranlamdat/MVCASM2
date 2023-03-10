@@ -1,0 +1,35 @@
+﻿@model IEnumerable<OrderDetail>
+<script>
+	function deleteConfirm() {
+		if (confirm("Are you sure to delete!")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+</script>
+<h2>List Of OrderDetail</h2>
+<table class="table table-hover">
+
+	@foreach (var orderDetail in Model)
+	{
+		<tr>
+			<td>@orderDetail.Order_Id</td>
+		    <td>@orderDetail.Pro_Id</td>
+		    <td>@orderDetail.Quantity</td>
+		
+			<td>
+				<a asp-action="Edit" asp-route-id="@orderDetail.Order_Id">Edit || @orderDetail.Pro_Id</a>
+				<a asp-action="Delete" asp-route-id="@orderDetail.Order_Id" onclick="return deleteConfirm()">Delete</a>
+			</td>
+		</tr>
+	}
+</table>
+
+@*@foreach (var cat in Model)
+{
+	<h5 class="text-danger">Id is: @orderDetail.Order_Id</h5>
+	<p>Hello everyone, my name is <b>@order.Cus_Name</b> description <b>@order.DeliveryDate</b></p>
+	<hr />
+}*@
+

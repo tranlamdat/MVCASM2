@@ -1,6 +1,6 @@
 ﻿@model Product
 
-<form asp-controller="Product" asp-action="Edit"  method="post" enctype="multipart/form-data">
+<form asp-controller="Product" asp-action="Edit" asp-route-id="@Model.ProductId" method="post" enctype="multipart/form-data">
 	ID:
 	<input type="text" asp-for="ProductId" />
 	<span class="text-danger" asp-validation-for="ProductId"></span>
@@ -18,11 +18,14 @@
 	<span class="text-danger" asp-validation-for="Price"></span>
 	<br />
 	CategoryID:
-	<textarea type="text" asp-for="Cat_Id"></textarea>
+	<select asp-for="Cat_Id" class="form-control" asp-items="ViewBag.Cate" required>
+		<option value="">Select Category</option>
+	</select>
 	<span class="text-danger" asp-validation-for="Cat_Id"></span>
 	<br />
 	Image:
-	<input type="file" asp-for="FileImage"/>
+	<input type="file" asp-for="FileImage" />
+	<br />
 	<input type="submit" value="Submit">
 </form>
 @section scripts {

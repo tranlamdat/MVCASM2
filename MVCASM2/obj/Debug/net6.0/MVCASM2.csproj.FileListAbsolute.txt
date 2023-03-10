@@ -311,3 +311,13 @@ D:\1670 Demo\MVCASM2\MVCASM2\obj\Debug\net6.0\refint\MVCASM2.dll
 D:\1670 Demo\MVCASM2\MVCASM2\obj\Debug\net6.0\MVCASM2.pdb
 D:\1670 Demo\MVCASM2\MVCASM2\obj\Debug\net6.0\MVCASM2.genruntimeconfig.cache
 D:\1670 Demo\MVCASM2\MVCASM2\obj\Debug\net6.0\ref\MVCASM2.dll
+D:\1670 Demo\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\web.config
+D:\1670 Demo\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\appsettings.Development.json
+D:\1670 Demo\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\appsettings.json
+D:\1670 Demo\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\MVCASM2.deps.json
+D:\1670 Demo\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\MVCASM2.runtimeconfig.json
+D:\IT\ASP.NetCore\LamDat\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\web.config
+D:\IT\ASP.NetCore\LamDat\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\appsettings.Development.json
+D:\IT\ASP.NetCore\LamDat\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\appsettings.json
+D:\IT\ASP.NetCore\LamDat\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\MVCASM2.deps.json
+D:\IT\ASP.NetCore\LamDat\MVCASM2\MVCASM2\bin\Debug\net6.0\AspWebsite\AspWebsite\MVCASM2.runtimeconfig.json

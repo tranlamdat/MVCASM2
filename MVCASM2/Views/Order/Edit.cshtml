@@ -1,0 +1,28 @@
+﻿@model Order
+<form asp-controller="Order" asp-action="Edit" method="post">
+	Name:
+	<input type="text" asp-for="Cus_Name" />
+	<span class="text-danger" asp-validation-for="Cus_Name"></span>
+	<br />
+	DeliveryLocal:
+	<input type="text" asp-for="DeliveryLocal" />
+	<span class="text-danger" asp-validation-for="DeliveryLocal"></span>
+	<br />
+	Cus_Phone:
+	<input type="text" asp-for="Cus_Phone" />
+	<span class="text-danger" asp-validation-for="Cus_Phone"></span>
+	<br />
+	OrderDate:
+	<input type="date" asp-for="OrderDate" />
+	<span class="text-danger" asp-validation-for="OrderDate"></span>
+	<br />
+	DeliveryDate:
+	<input type="date" asp-for="DeliveryDate" />
+	<span class="text-danger" asp-validation-for="DeliveryDate"></span>
+	<br />
+		<input type="submit" value="Submit">
+</form>
+@section scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
+

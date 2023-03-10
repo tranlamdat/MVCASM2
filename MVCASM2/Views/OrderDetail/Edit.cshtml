@@ -1,0 +1,12 @@
+﻿@model OrderDetail
+<form asp-controller="OrderDetail" asp-action="Edit" method="post">
+	Quantity:
+	<input type="text" asp-for="Quantity" />
+	<span class="text-danger" asp-validation-for="Quantity"></span>
+	<br />
+		<input type="submit" value="Submit">
+</form>
+@section scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
+

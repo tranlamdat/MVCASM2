@@ -1,7 +1,6 @@
 ﻿@model List<MVCASM2.Models.Product>
 @{
-	 ViewData["Title"] = "Profile";
-    ViewData["Title"] = "Các sản phẩm";
+	ViewData["Title"] = "All Products";
 }
 <script>
 	function deleteConfirm() {
@@ -32,7 +31,7 @@
 			<td>@pro.Description</td>
 			<td>@pro.Price</td>
 			<td>@pro.Cat_Id</td>
-		    <td><img src="/Uploads/@pro.ProductImage" style ="width:130px;height:130px"/td>
+			<td><img src="/Uploads/@pro.ProductImage" style="width:130px;height:130px" /td>
 			<td>
 				<a asp-action="Edit" asp-route-id="@pro.ProductId">Edit</a>
 				<a asp-action="Delete" asp-route-id="@pro.ProductId" onclick="return deleteConfirm()">Delete</a>
@@ -40,29 +39,3 @@
 		</tr>
 	}
 </table>
-
-@*@foreach (var pro in Model)
-{
-	<h5 class="text-danger">Id is: @pro.ProductId</h5>
-	<p>Hello everyone, my name is <b>@pro.Name</b> description <b>@pro.Description</b></p>
-	<hr />
-}*@
-
-<div class="card-columns">
-    @foreach (var product in Model)
-    {
-        <div class=card>
-            <h3 class="card-header">@product.Name</h3>
-            <div class="card-body" style="height: 150px;">
-                @product.Description
-            </div>
-            <div class="card-footer">
-                <span class="text-muted">@(product.Price.ToString("n0")) VND</span>    
-                <a asp-route="addcart" 
-                   asp-route-productid="@product.ProductId"
-                   class="btn btn-secondary btn-sm float-right">Order</a>
-            </div>
-        </div>
-    }
-
-</div>

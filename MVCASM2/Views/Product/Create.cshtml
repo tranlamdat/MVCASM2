@@ -14,7 +14,9 @@
 	<span class="text-danger" asp-validation-for="Price"></span>
 	<br />
 	CategoyID:
-	<input type="text" asp-for="Cat_Id" />
+	<select asp-for="Cat_Id" class="form-control" asp-items="ViewBag.Cate" required>
+		<option value="">Select Category</option>
+	</select>
 	<span class="text-danger" asp-validation-for="Cat_Id"></span>
 	<br />
 	Image:

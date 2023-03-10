@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MVCASM2.bundle.scp.css"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0477fd59-731d-4435-89d2-83bd5ca057a2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0477fd59-731d-4435-89d2-83bd5ca057a2.jpg"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0546fd78-db4c-4adc-81e5-a0ff9edd4e36.jpg",
       "PackagePath": "staticwebassets\\Uploads\\0546fd78-db4c-4adc-81e5-a0ff9edd4e36.jpg"
     },
@@ -13,8 +17,16 @@
       "PackagePath": "staticwebassets\\Uploads\\05f7dc0f-4d2d-4691-b8a3-a32c21c618d8.jpg"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0fe2fa8d-2187-4eaf-87a2-197a07532efa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0fe2fa8d-2187-4eaf-87a2-197a07532efa.jpg"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\19b1110d-19f1-4dbc-aec6-39df828b9c4e.jpg",
       "PackagePath": "staticwebassets\\Uploads\\19b1110d-19f1-4dbc-aec6-39df828b9c4e.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\22ee1d62-b180-4e9f-9fc3-0954400f7792.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\22ee1d62-b180-4e9f-9fc3-0954400f7792.jpg"
     },
     {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\29ba734b-cd04-4ea6-b59e-7bace6f07ce6.png",
@@ -29,8 +41,20 @@
       "PackagePath": "staticwebassets\\Uploads\\356a5dc2-2825-4a48-9a66-76a719342f71.png"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\384b1b4e-b082-4909-9318-7c9dfb9fa192.png",
+      "PackagePath": "staticwebassets\\Uploads\\384b1b4e-b082-4909-9318-7c9dfb9fa192.png"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3939c90d-1cda-4ff3-9895-941e52f925e4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3939c90d-1cda-4ff3-9895-941e52f925e4.jpg"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3cfb39da-e22a-4e9e-ab77-0b5aa4f7ad55.jpg",
       "PackagePath": "staticwebassets\\Uploads\\3cfb39da-e22a-4e9e-ab77-0b5aa4f7ad55.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3e2b1d1d-c9b3-4f0d-bb49-8c14ab807a85.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3e2b1d1d-c9b3-4f0d-bb49-8c14ab807a85.jpg"
     },
     {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3ff72267-54d7-44e9-8365-6eb46f68cd73.jpg",
@@ -61,8 +85,20 @@
       "PackagePath": "staticwebassets\\Uploads\\628c7205-078c-406a-8025-08822756e803.jpg"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\6595ed25-9036-45c7-9083-84dfda65833f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6595ed25-9036-45c7-9083-84dfda65833f.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\66a25adf-976e-4f51-bd3f-bffab7c81dd6.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\66a25adf-976e-4f51-bd3f-bffab7c81dd6.jpg"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\6a37a057-946b-4717-abc4-de5ed063cedb.jpg",
       "PackagePath": "staticwebassets\\Uploads\\6a37a057-946b-4717-abc4-de5ed063cedb.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\75b60590-6db1-46ad-9df6-b6bc62f382fa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\75b60590-6db1-46ad-9df6-b6bc62f382fa.jpg"
     },
     {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\771f98cb-0827-4d24-9639-dc1ad46558f7.png",
@@ -73,8 +109,32 @@
       "PackagePath": "staticwebassets\\Uploads\\8bd9df10-787d-4d4f-afd9-9f36dfda6b54.jpg"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\8f08bfe5-daef-41f1-9871-10b2aa92f693.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8f08bfe5-daef-41f1-9871-10b2aa92f693.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\91b0628b-805e-49b3-91d8-becb6162a842.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\91b0628b-805e-49b3-91d8-becb6162a842.jpg"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\92ce8ad7-ae0a-4e81-b69a-b47b257814a1.png",
       "PackagePath": "staticwebassets\\Uploads\\92ce8ad7-ae0a-4e81-b69a-b47b257814a1.png"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\9e0106da-762e-4118-be67-848e3625f482.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9e0106da-762e-4118-be67-848e3625f482.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\a592f14c-ca45-452e-be11-ee34bdbdaaac.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a592f14c-ca45-452e-be11-ee34bdbdaaac.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\a6a2ec91-b97e-45f4-aa8c-2fd22f4570be.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a6a2ec91-b97e-45f4-aa8c-2fd22f4570be.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg"
     },
     {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\b8eec38e-ff15-4e9d-8f68-39c8eb0cb821.png",
@@ -85,20 +145,64 @@
       "PackagePath": "staticwebassets\\Uploads\\c2b4dc9c-70c4-4a7e-84fd-956b67da39f0.jpg"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\c9466edd-dcc9-4ec7-afaa-88a926b7c36e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c9466edd-dcc9-4ec7-afaa-88a926b7c36e.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ca65642f-f5da-4461-8874-65afa91a7eec.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ca65642f-f5da-4461-8874-65afa91a7eec.jpg"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d2323078-4cc3-47d7-a731-64688f60bb6e.jpg",
       "PackagePath": "staticwebassets\\Uploads\\d2323078-4cc3-47d7-a731-64688f60bb6e.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d3b2cf88-1979-4ef3-ba05-ddd2ff9b3dcd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d3b2cf88-1979-4ef3-ba05-ddd2ff9b3dcd.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d50e4281-8f14-444d-9311-f11873d954b9.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d50e4281-8f14-444d-9311-f11873d954b9.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\dfefd19f-5c67-4906-8a61-0f4ff4632408.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\dfefd19f-5c67-4906-8a61-0f4ff4632408.jpg"
     },
     {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\e1a02307-721d-4820-9c1f-11a621ed5ac8.jpg",
       "PackagePath": "staticwebassets\\Uploads\\e1a02307-721d-4820-9c1f-11a621ed5ac8.jpg"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ecc64955-8ee1-4255-a789-0701338e7f47.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ecc64955-8ee1-4255-a789-0701338e7f47.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f18e6ad4-3760-4c34-a42b-69c2c3120a93.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f18e6ad4-3760-4c34-a42b-69c2c3120a93.jpg"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f3a0f046-e76e-42bd-bbcb-af7e92d73fce.png",
       "PackagePath": "staticwebassets\\Uploads\\f3a0f046-e76e-42bd-bbcb-af7e92d73fce.png"
     },
     {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f8895cad-3cdb-47f5-8241-7349601d2abd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f8895cad-3cdb-47f5-8241-7349601d2abd.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\css\\owl.carousel.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\css\\payment.css",
+      "PackagePath": "staticwebassets\\css\\payment.css"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
     },
     {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\css\\responsive.css",
@@ -117,8 +221,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\img\\Laptopstore.png",
-      "PackagePath": "staticwebassets\\img\\Laptopstore.png"
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\img\\4044eeb36d5096b29b19c8f1831d9997.jpg",
+      "PackagePath": "staticwebassets\\img\\4044eeb36d5096b29b19c8f1831d9997.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\img\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\img\\signin-image.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\img\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\img\\signup-image.jpg"
+    },
+    {
+      "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\img\\unikey43RC5-200929-win64.zip",
+      "PackagePath": "staticwebassets\\img\\unikey43RC5-200929-win64.zip"
     },
     {
       "Id": "D:\\IT\\ASP.NetCore\\LamDat\\MVCASM2\\MVCASM2\\wwwroot\\js\\site.js",
