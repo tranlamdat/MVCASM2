@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zOlSebWl/9q7NPJPOJFUNkfHGJ9FHQHLY6BfisKsV/s=",
+  "Hash": "b/NcWEnmU9lFrNVQVAXqSUoKtiQFf3dSP/cIA4/1McM=",
   "Source": "MVCASM2",
   "BasePath": "_content/MVCASM2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MVCASM2\\wwwroot",
       "Source": "MVCASM2",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCASM2.styles.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCASM2.styles.css",
       "SourceId": "MVCASM2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "MVCASM2.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCASM2.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCASM2.styles.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCASM2.bundle.scp.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCASM2.bundle.scp.css",
       "SourceId": "MVCASM2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "MVCASM2.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCASM2.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCASM2.bundle.scp.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\css\\login.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\css\\owl.carousel.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "css/owl.carousel.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\css\\payment.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\css\\payment.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "css/payment.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\payment.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\css\\register.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\css\\register.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "css/register.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\css\\responsive.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\css\\site.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\css\\style.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\favicon.ico",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\img\\4044eeb36d5096b29b19c8f1831d9997.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\img\\4044eeb36d5096b29b19c8f1831d9997.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "img/4044eeb36d5096b29b19c8f1831d9997.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\4044eeb36d5096b29b19c8f1831d9997.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\img\\login.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\img\\login.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "img/login.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\login.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\img\\signin-image.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\img\\signin-image.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "img/signin-image.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\signin-image.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\img\\signup-image.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\img\\signup-image.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "img/signup-image.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\signup-image.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\img\\unikey43RC5-200929-win64.zip",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\img\\unikey43RC5-200929-win64.zip",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "img/unikey43RC5-200929-win64.zip",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\unikey43RC5-200929-win64.zip"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\js\\site.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0477fd59-731d-4435-89d2-83bd5ca057a2.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0477fd59-731d-4435-89d2-83bd5ca057a2.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/0477fd59-731d-4435-89d2-83bd5ca057a2.jpg",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\0477fd59-731d-4435-89d2-83bd5ca057a2.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0546fd78-db4c-4adc-81e5-a0ff9edd4e36.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0546fd78-db4c-4adc-81e5-a0ff9edd4e36.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/0546fd78-db4c-4adc-81e5-a0ff9edd4e36.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\0546fd78-db4c-4adc-81e5-a0ff9edd4e36.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\05f7dc0f-4d2d-4691-b8a3-a32c21c618d8.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\05f7dc0f-4d2d-4691-b8a3-a32c21c618d8.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/05f7dc0f-4d2d-4691-b8a3-a32c21c618d8.jpg",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\05f7dc0f-4d2d-4691-b8a3-a32c21c618d8.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0fe2fa8d-2187-4eaf-87a2-197a07532efa.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\0fe2fa8d-2187-4eaf-87a2-197a07532efa.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/0fe2fa8d-2187-4eaf-87a2-197a07532efa.jpg",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\0fe2fa8d-2187-4eaf-87a2-197a07532efa.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\19b1110d-19f1-4dbc-aec6-39df828b9c4e.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\19b1110d-19f1-4dbc-aec6-39df828b9c4e.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/19b1110d-19f1-4dbc-aec6-39df828b9c4e.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\19b1110d-19f1-4dbc-aec6-39df828b9c4e.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\1e35eb2e-fcd2-4809-861f-08bdc00622d7.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\1e35eb2e-fcd2-4809-861f-08bdc00622d7.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/1e35eb2e-fcd2-4809-861f-08bdc00622d7.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\1e35eb2e-fcd2-4809-861f-08bdc00622d7.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\217ec50f-1337-42de-aedc-2d4aadb8fa6c.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\217ec50f-1337-42de-aedc-2d4aadb8fa6c.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/217ec50f-1337-42de-aedc-2d4aadb8fa6c.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\217ec50f-1337-42de-aedc-2d4aadb8fa6c.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\22ee1d62-b180-4e9f-9fc3-0954400f7792.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\22ee1d62-b180-4e9f-9fc3-0954400f7792.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/22ee1d62-b180-4e9f-9fc3-0954400f7792.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\22ee1d62-b180-4e9f-9fc3-0954400f7792.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\24aafd9c-c6cd-491d-ad10-e698ffafd643.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\24aafd9c-c6cd-491d-ad10-e698ffafd643.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/24aafd9c-c6cd-491d-ad10-e698ffafd643.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\24aafd9c-c6cd-491d-ad10-e698ffafd643.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\29ba734b-cd04-4ea6-b59e-7bace6f07ce6.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\29ba734b-cd04-4ea6-b59e-7bace6f07ce6.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/29ba734b-cd04-4ea6-b59e-7bace6f07ce6.png",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\29ba734b-cd04-4ea6-b59e-7bace6f07ce6.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\2f9d2ce7-47cf-4441-a9e3-d1cce73ce5e2.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\2f9d2ce7-47cf-4441-a9e3-d1cce73ce5e2.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/2f9d2ce7-47cf-4441-a9e3-d1cce73ce5e2.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\2f9d2ce7-47cf-4441-a9e3-d1cce73ce5e2.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\356a5dc2-2825-4a48-9a66-76a719342f71.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\356a5dc2-2825-4a48-9a66-76a719342f71.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/356a5dc2-2825-4a48-9a66-76a719342f71.png",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\356a5dc2-2825-4a48-9a66-76a719342f71.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3821c040-b636-4bf5-bc45-7a70f02fb00f.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3821c040-b636-4bf5-bc45-7a70f02fb00f.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/3821c040-b636-4bf5-bc45-7a70f02fb00f.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3821c040-b636-4bf5-bc45-7a70f02fb00f.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\384b1b4e-b082-4909-9318-7c9dfb9fa192.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\384b1b4e-b082-4909-9318-7c9dfb9fa192.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/384b1b4e-b082-4909-9318-7c9dfb9fa192.png",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\384b1b4e-b082-4909-9318-7c9dfb9fa192.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3939c90d-1cda-4ff3-9895-941e52f925e4.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3939c90d-1cda-4ff3-9895-941e52f925e4.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/3939c90d-1cda-4ff3-9895-941e52f925e4.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3939c90d-1cda-4ff3-9895-941e52f925e4.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3cfb39da-e22a-4e9e-ab77-0b5aa4f7ad55.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3cfb39da-e22a-4e9e-ab77-0b5aa4f7ad55.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/3cfb39da-e22a-4e9e-ab77-0b5aa4f7ad55.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3cfb39da-e22a-4e9e-ab77-0b5aa4f7ad55.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3e2b1d1d-c9b3-4f0d-bb49-8c14ab807a85.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3e2b1d1d-c9b3-4f0d-bb49-8c14ab807a85.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/3e2b1d1d-c9b3-4f0d-bb49-8c14ab807a85.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3e2b1d1d-c9b3-4f0d-bb49-8c14ab807a85.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3ff72267-54d7-44e9-8365-6eb46f68cd73.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\3ff72267-54d7-44e9-8365-6eb46f68cd73.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/3ff72267-54d7-44e9-8365-6eb46f68cd73.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3ff72267-54d7-44e9-8365-6eb46f68cd73.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\42583b2b-9b37-48ae-b1a0-c3e7b1c2ef91.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\42583b2b-9b37-48ae-b1a0-c3e7b1c2ef91.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/42583b2b-9b37-48ae-b1a0-c3e7b1c2ef91.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\42583b2b-9b37-48ae-b1a0-c3e7b1c2ef91.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\47e423ed-8034-484b-ac3c-cb1ae3c9b6b0.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\47e423ed-8034-484b-ac3c-cb1ae3c9b6b0.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/47e423ed-8034-484b-ac3c-cb1ae3c9b6b0.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\47e423ed-8034-484b-ac3c-cb1ae3c9b6b0.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\4debeb6b-4b09-4a6b-ab21-17a16205a7db.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\4debeb6b-4b09-4a6b-ab21-17a16205a7db.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/4debeb6b-4b09-4a6b-ab21-17a16205a7db.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\4debeb6b-4b09-4a6b-ab21-17a16205a7db.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\4ded81ce-64c7-41d6-aeeb-4bdca7afe7fd.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\4ded81ce-64c7-41d6-aeeb-4bdca7afe7fd.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/4ded81ce-64c7-41d6-aeeb-4bdca7afe7fd.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\4ded81ce-64c7-41d6-aeeb-4bdca7afe7fd.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\54f28490-0431-4c9d-90ef-682a9c813b14.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\54f28490-0431-4c9d-90ef-682a9c813b14.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/54f28490-0431-4c9d-90ef-682a9c813b14.png",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\54f28490-0431-4c9d-90ef-682a9c813b14.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\54fcb16e-5927-4526-8639-adfd7e6d3da7.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\54fcb16e-5927-4526-8639-adfd7e6d3da7.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/54fcb16e-5927-4526-8639-adfd7e6d3da7.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\54fcb16e-5927-4526-8639-adfd7e6d3da7.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\5a25c6c3-ac11-47e1-8148-c26fe5fb68e7.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\5a25c6c3-ac11-47e1-8148-c26fe5fb68e7.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/5a25c6c3-ac11-47e1-8148-c26fe5fb68e7.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\5a25c6c3-ac11-47e1-8148-c26fe5fb68e7.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\5f65e466-4d60-4579-8025-0575805f3489.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\5f65e466-4d60-4579-8025-0575805f3489.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/5f65e466-4d60-4579-8025-0575805f3489.png",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\5f65e466-4d60-4579-8025-0575805f3489.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\628c7205-078c-406a-8025-08822756e803.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\628c7205-078c-406a-8025-08822756e803.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/628c7205-078c-406a-8025-08822756e803.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\628c7205-078c-406a-8025-08822756e803.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\6595ed25-9036-45c7-9083-84dfda65833f.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\6595ed25-9036-45c7-9083-84dfda65833f.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/6595ed25-9036-45c7-9083-84dfda65833f.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\6595ed25-9036-45c7-9083-84dfda65833f.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\66a25adf-976e-4f51-bd3f-bffab7c81dd6.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\66a25adf-976e-4f51-bd3f-bffab7c81dd6.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/66a25adf-976e-4f51-bd3f-bffab7c81dd6.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\66a25adf-976e-4f51-bd3f-bffab7c81dd6.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\6a37a057-946b-4717-abc4-de5ed063cedb.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\6a37a057-946b-4717-abc4-de5ed063cedb.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/6a37a057-946b-4717-abc4-de5ed063cedb.jpg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\6a37a057-946b-4717-abc4-de5ed063cedb.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\71dacd76-bc19-45ce-b0a6-4dd102c7721c.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\71dacd76-bc19-45ce-b0a6-4dd102c7721c.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/71dacd76-bc19-45ce-b0a6-4dd102c7721c.jpg",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\71dacd76-bc19-45ce-b0a6-4dd102c7721c.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\75b60590-6db1-46ad-9df6-b6bc62f382fa.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\75b60590-6db1-46ad-9df6-b6bc62f382fa.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/75b60590-6db1-46ad-9df6-b6bc62f382fa.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\75b60590-6db1-46ad-9df6-b6bc62f382fa.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\771f98cb-0827-4d24-9639-dc1ad46558f7.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\771f98cb-0827-4d24-9639-dc1ad46558f7.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/771f98cb-0827-4d24-9639-dc1ad46558f7.png",
       "AssetKind": "All",
@@ -2839,10 +2839,27 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\771f98cb-0827-4d24-9639-dc1ad46558f7.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\8bd9df10-787d-4d4f-afd9-9f36dfda6b54.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\84d810ea-821c-4d99-84af-785ec85d3268.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "BasePath": "_content/MVCASM2",
+      "RelativePath": "Uploads/84d810ea-821c-4d99-84af-785ec85d3268.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\84d810ea-821c-4d99-84af-785ec85d3268.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\8bd9df10-787d-4d4f-afd9-9f36dfda6b54.jpg",
+      "SourceId": "MVCASM2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/8bd9df10-787d-4d4f-afd9-9f36dfda6b54.jpg",
       "AssetKind": "All",
@@ -2856,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8bd9df10-787d-4d4f-afd9-9f36dfda6b54.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\8f08bfe5-daef-41f1-9871-10b2aa92f693.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\8f08bfe5-daef-41f1-9871-10b2aa92f693.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/8f08bfe5-daef-41f1-9871-10b2aa92f693.jpg",
       "AssetKind": "All",
@@ -2873,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8f08bfe5-daef-41f1-9871-10b2aa92f693.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\91b0628b-805e-49b3-91d8-becb6162a842.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\91b0628b-805e-49b3-91d8-becb6162a842.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/91b0628b-805e-49b3-91d8-becb6162a842.jpg",
       "AssetKind": "All",
@@ -2890,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\91b0628b-805e-49b3-91d8-becb6162a842.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\92ce8ad7-ae0a-4e81-b69a-b47b257814a1.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\92ce8ad7-ae0a-4e81-b69a-b47b257814a1.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/92ce8ad7-ae0a-4e81-b69a-b47b257814a1.png",
       "AssetKind": "All",
@@ -2907,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\92ce8ad7-ae0a-4e81-b69a-b47b257814a1.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\9e0106da-762e-4118-be67-848e3625f482.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\9e0106da-762e-4118-be67-848e3625f482.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/9e0106da-762e-4118-be67-848e3625f482.jpg",
       "AssetKind": "All",
@@ -2924,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\9e0106da-762e-4118-be67-848e3625f482.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\a592f14c-ca45-452e-be11-ee34bdbdaaac.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\a592f14c-ca45-452e-be11-ee34bdbdaaac.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/a592f14c-ca45-452e-be11-ee34bdbdaaac.jpg",
       "AssetKind": "All",
@@ -2941,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\a592f14c-ca45-452e-be11-ee34bdbdaaac.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\a6a2ec91-b97e-45f4-aa8c-2fd22f4570be.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\a6a2ec91-b97e-45f4-aa8c-2fd22f4570be.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/a6a2ec91-b97e-45f4-aa8c-2fd22f4570be.jpg",
       "AssetKind": "All",
@@ -2958,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\a6a2ec91-b97e-45f4-aa8c-2fd22f4570be.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg",
       "AssetKind": "All",
@@ -2975,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ab289898-a7bb-41f6-aa0a-18da122e52e4.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\af5ffd4c-af1e-49cd-8109-2a40fe21da49.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\af5ffd4c-af1e-49cd-8109-2a40fe21da49.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/af5ffd4c-af1e-49cd-8109-2a40fe21da49.jpg",
       "AssetKind": "All",
@@ -2992,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\af5ffd4c-af1e-49cd-8109-2a40fe21da49.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\b8eec38e-ff15-4e9d-8f68-39c8eb0cb821.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\b8eec38e-ff15-4e9d-8f68-39c8eb0cb821.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/b8eec38e-ff15-4e9d-8f68-39c8eb0cb821.png",
       "AssetKind": "All",
@@ -3009,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b8eec38e-ff15-4e9d-8f68-39c8eb0cb821.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\c2b4dc9c-70c4-4a7e-84fd-956b67da39f0.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\c2b4dc9c-70c4-4a7e-84fd-956b67da39f0.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/c2b4dc9c-70c4-4a7e-84fd-956b67da39f0.jpg",
       "AssetKind": "All",
@@ -3026,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c2b4dc9c-70c4-4a7e-84fd-956b67da39f0.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\c57c00e5-4ade-4199-bb0d-21d83fd9e782.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\c57c00e5-4ade-4199-bb0d-21d83fd9e782.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/c57c00e5-4ade-4199-bb0d-21d83fd9e782.jpg",
       "AssetKind": "All",
@@ -3043,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c57c00e5-4ade-4199-bb0d-21d83fd9e782.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\c9466edd-dcc9-4ec7-afaa-88a926b7c36e.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\c9466edd-dcc9-4ec7-afaa-88a926b7c36e.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/c9466edd-dcc9-4ec7-afaa-88a926b7c36e.jpg",
       "AssetKind": "All",
@@ -3060,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c9466edd-dcc9-4ec7-afaa-88a926b7c36e.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ca65642f-f5da-4461-8874-65afa91a7eec.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ca65642f-f5da-4461-8874-65afa91a7eec.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/ca65642f-f5da-4461-8874-65afa91a7eec.jpg",
       "AssetKind": "All",
@@ -3077,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ca65642f-f5da-4461-8874-65afa91a7eec.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d2323078-4cc3-47d7-a731-64688f60bb6e.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d2323078-4cc3-47d7-a731-64688f60bb6e.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/d2323078-4cc3-47d7-a731-64688f60bb6e.jpg",
       "AssetKind": "All",
@@ -3094,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\d2323078-4cc3-47d7-a731-64688f60bb6e.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d3b2cf88-1979-4ef3-ba05-ddd2ff9b3dcd.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d3b2cf88-1979-4ef3-ba05-ddd2ff9b3dcd.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/d3b2cf88-1979-4ef3-ba05-ddd2ff9b3dcd.jpg",
       "AssetKind": "All",
@@ -3111,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\d3b2cf88-1979-4ef3-ba05-ddd2ff9b3dcd.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d50e4281-8f14-444d-9311-f11873d954b9.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\d50e4281-8f14-444d-9311-f11873d954b9.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/d50e4281-8f14-444d-9311-f11873d954b9.jpg",
       "AssetKind": "All",
@@ -3128,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\d50e4281-8f14-444d-9311-f11873d954b9.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\dfefd19f-5c67-4906-8a61-0f4ff4632408.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\dfefd19f-5c67-4906-8a61-0f4ff4632408.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/dfefd19f-5c67-4906-8a61-0f4ff4632408.jpg",
       "AssetKind": "All",
@@ -3145,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\dfefd19f-5c67-4906-8a61-0f4ff4632408.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\e1a02307-721d-4820-9c1f-11a621ed5ac8.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\e1a02307-721d-4820-9c1f-11a621ed5ac8.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/e1a02307-721d-4820-9c1f-11a621ed5ac8.jpg",
       "AssetKind": "All",
@@ -3162,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\e1a02307-721d-4820-9c1f-11a621ed5ac8.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ecc64955-8ee1-4255-a789-0701338e7f47.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\ecc64955-8ee1-4255-a789-0701338e7f47.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/ecc64955-8ee1-4255-a789-0701338e7f47.jpg",
       "AssetKind": "All",
@@ -3179,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ecc64955-8ee1-4255-a789-0701338e7f47.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f18e6ad4-3760-4c34-a42b-69c2c3120a93.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f18e6ad4-3760-4c34-a42b-69c2c3120a93.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/f18e6ad4-3760-4c34-a42b-69c2c3120a93.jpg",
       "AssetKind": "All",
@@ -3196,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\f18e6ad4-3760-4c34-a42b-69c2c3120a93.jpg"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f3a0f046-e76e-42bd-bbcb-af7e92d73fce.png",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f3a0f046-e76e-42bd-bbcb-af7e92d73fce.png",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/f3a0f046-e76e-42bd-bbcb-af7e92d73fce.png",
       "AssetKind": "All",
@@ -3213,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\f3a0f046-e76e-42bd-bbcb-af7e92d73fce.png"
     },
     {
-      "Identity": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f8895cad-3cdb-47f5-8241-7349601d2abd.jpg",
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\Uploads\\f8895cad-3cdb-47f5-8241-7349601d2abd.jpg",
       "SourceId": "MVCASM2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1670 Demo\\MVCASM2\\MVCASM2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\MVCASM2\\MVCASM2\\wwwroot\\",
       "BasePath": "_content/MVCASM2",
       "RelativePath": "Uploads/f8895cad-3cdb-47f5-8241-7349601d2abd.jpg",
       "AssetKind": "All",
